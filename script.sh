@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Hi Mohammed"
-uname -r
+echo "System kernel Version is" uname -r
